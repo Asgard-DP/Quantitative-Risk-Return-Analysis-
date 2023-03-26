@@ -1,7 +1,7 @@
 # Quantitative-Risk-Return-Analysis-
 Quantitative Analysis: Portfolio VS Algorithm Strategy visual performance and risk metrics.
 
-Determine whether the algorithmic strategies outperform both the market (S&P 500) and the Warren Buffests ( Whale ) portfolios.
+Determine whether the algorithmic strategies outperform both the market (S&P 500) and ( Whale ) portfolios.
 
 
 ## Risk Analysis
